@@ -7,7 +7,7 @@ The idea of a piece of work being digital-born, stuck out as important to me. Th
 
 ## Of the key examples we looked at, which did you like most and why?
 
-The Gathering Cloud really stole my attention. While the primary interaction itself of hyperlinked text popping up when I hovered over it was quite simple, I enjoyed experimenting with when to interact, when to simply read or observe the image that accompanied the text. Then, when I noticed the screen itself changing, I became very invested in what was changing about it, what triggered it and so on. The fifth plate in particular, took my attention for a long time, as I patiently waited for a scuffed wooden duck to move in jarring spurts of random intervals out from beyond the left-most edge of the screen until he occupied the entire image.
+The Gathering Cloud by JR Carpenter really captured my attention. While the primary interaction itself of hyperlinked text popping up when I hovered over it was quite simple, I enjoyed experimenting with when to interact, when to simply read or observe the image that accompanied the text. Then, when I noticed the screen itself changing, I became very invested in what was changing about it, what triggered it and so on. The fifth plate in particular, took my attention for a long time, as I patiently waited for a scuffed wooden duck to move in jarring spurts of random intervals out from beyond the left-most edge of the screen until he occupied the entire image.
 
 
 ## What do you expect from this class? What would you like to be better at by the end of semester?
