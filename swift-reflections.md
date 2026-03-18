@@ -1,4 +1,4 @@
-# Swift Reflection 1
+# Swift Reflection 1 (Wednesday March 4)
 
 ### What makes a work a piece E-Literature?
 
@@ -12,7 +12,7 @@ The Gathering Cloud by JR Carpenter really captured my attention. While the prim
 
 I really don't know what I expect from this class. I think I have a very remedial understanding of anything technology-related, so digital writing is a concept I'm apprehensive about on approach, vereing toward downright fear. I imagine I'll be forced to upskill in a myriad of areas to keep up, and I look forward to seeing how that improvement takes shape. The coding aspect is one that seems enticing all on it's own, but the idea of incorporating game-like mechanisms into my writing is also interesting and exciting.
 
-# Swift Reflection 2
+# Swift Reflection 2 (Wednesday March 11)
 
 “While I am persuaded by Leonardo Flores’s argument that there’s a wealth of digital creative production among people who have never heard of ELO nor studied e-lit in college, I wonder if the radical expansion of e-lit’s aesthetic from difficulty to ease violates one of e-literature’s founding principles: that to read e-lit requires “non-trivial” effort, whether that effort is physical interaction and/or cognitive complexity? This 1997 definition from Espen Aarseth’s Cybertexts, and N.Katherine Hayles’ definition of technotexts (2002) describe the mechanics by which e-lit artists align its practices with modernist poetry, not populist bestsellers. Our field remains committed to self-conscious reading practices, where the interaction between a work’s physical properties and its semantic strategies engage in “reflexive loops” (Hayles). Stephanie Strickland suggests that “reading e-lit requires taking an aesthetic attitude toward the textscape as an object that stimulates the sense. To read e-works is to operate or play them (more like an instrument than a game, though some e-works have gamelike elements)” (2009). An experimental, hand-built interface is very different from a pre-packaged, self-evident social media interface."
 
@@ -35,7 +35,7 @@ It's a phrase often commented on niche or hyper-specific content, humourous and 
 
 In a manner of speaking, any interaction with social media viewed in this lens is non-trivial effort. It's a level of collaboration between you and an all-seeing, unknown and oftentimes un-knowing equation to navigate through truly countless amounts of content, all screaming for your attention to find what you like. If it weren't so evil and pervasive, there might even be an argument to be made that it's E-lit in and of itself.
 
-# Swift Reflection 2
+# Swift Reflection 3 (Thursday March 12)
 
 ### AI and Ethics
 
