@@ -34,3 +34,13 @@ One of the key facets of E-lit is the interaction of a consumer with the content
 It's a phrase often commented on niche or hyper-specific content, humourous and witty, evoking the imagery of hard labour spent crafting and refining your expression online until the algorithm worked for you, bringing you <i> exactly </i> the content you desire. It's a phrase I can relate to. I came to Instagram quite late, with very little other online presence. The only information Instagram really had on me upon signing up was that I was a man in my early 20s. And as a result, much of what was shown to me when I first looked at Instagram Reels seemed about as close as one could get to pornography without breaching some minimally safe for work terms of service. I can say from experience that it was no trivial effort to scroll and interact with content until I finally managed to feel comfortable scrolling through reels in public places or literally any room with people. 
 
 In a manner of speaking, any interaction with social media viewed in this lens is non-trivial effort. It's a level of collaboration between you and an all-seeing, unknown and oftentimes un-knowing equation to navigate through truly countless amounts of content, all screaming for your attention to find what you like. If it weren't so evil and pervasive, there might even be an argument to be made that it's E-lit in and of itself.
+
+# Swift Reflection 2
+
+### AI and Ethics
+
+My beliefs about AI in the past have started and ended with the environmental factors. The theft of work is obviously an issue, but it’s not really an argument worth having while the training, use and maintenance of LLMs are so wasteful of resources, and so toxic to the environment.
+
+Given this, it’s difficult to rationalise any use of the big AI models, especially generative AI. I want to believe in the utopic future where humans can do whatever they want because AI is safely and ethically keeping everything turning, but I can't see the capitalist mechanisms of the world allowing this in the immediate future, and a lot of harm can be done in the meantime. 
+
+The idea of using SLMs in writing is intriguing, however. I didn’t have a real grasp of the idea prior to reading Jenny’s blog excerpt, and I’m still no expert, but the idea of experimenting with collaboration between yourself and a bot trained on your writing is incredibly interesting. The transparency of what is being fed into SLMs also eases worries about copyright breach.
