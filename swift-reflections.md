@@ -72,3 +72,9 @@ The use of the second person perspective also creates an interesting interaction
 The choices within How to Knit a Human amplify this strange interaction by giving the reader these false choices. Whenever the reader might feel the chance to learn more about the narratee they are meant to feel some connection to, or exercise some control over the story they’re reading, they are instead sent the other way, down the path they didn’t choose. 
 
 The linear cause and effect of the story feels wrong though, as the reader and narratee are subject to drastic time jumps, missing time, a complete lack of information and background, and no real sequence to the events they are experiencing. As discussed by Aarseth, the frames themselves all make sense, the narrator speaks to the narratee. But the story must be understood by the reader and told by the author, and both face significant obstructions to those aims.
+
+# Swift Reflection 7 (Thursday March 26)
+
+The initial thoughts I have on what I want to work on for my folio project for this class are mainly built on the idea of a text that is actively being haunted, with elements of the story being changed and altered as you read it. I think this largely stems from my awe and wonder at ideas of death, the afterlife and what we leave behind. I've long been interested (read: kept up at night) by what is left when we are gone, and this has often driven an intrigue with creatures traditionally thought of as monstrous undead. The potential permanence of these creatures, particularly ghosts that have something they desparately need to communicate to the living world is an incredibly strange and wonderful concept.
+
+The chance to imbue a work with a piece of my writing that lives and breathes and changes and communicates with the reader is something that seemse incerdibly tempting.
