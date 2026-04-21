@@ -25,17 +25,17 @@ Lets start working on a bombing. Character statements available:
 - Protagonist: Their experience of the explosion. Don't need to go into the plot of the explosion too much, it's not the important part of the story. Mainly focus on the signs he missed but can see clearly on reflection. I should know the intent though.
 - Protagonist's loved one: Start to appear later, protagonist's projections of what they would have said, aggressive and blaming as it gets to the protagonist confronting their guilt.
 - Victim one and two: A couple very in love, but in the middle of an argument at the time of the explosion. One died at the scene an engagement ring recovered from what remained of their shirt after medics had to cut it away in an effort to save them. The second was distraught at the time of their statement, nothing clear was added.
-- Perpetrator: Mentally disturbed individual, angry at the theatre for screening a mediocre movie that espoused views they didn't agree with, wanted to destroy the theatre. 
+- Perpetrator: Mentally disturbed individual, angry at the cinema for screening a mediocre movie that espoused views they didn't agree with, wanted to destroy the cinema. 
 - Victim three: VIP that got caught in the immediate vicinity of the blast.
 - Victim four: Snack bar attendant, went for a smoke just before the bombing.
 - Victim five: Cleaner, was sweeping and trying to chat up victim 4 at the time.
 - Witness one: First responder - Abulance driver or firefighter.
-- Witness two: Worker at the event, maybe like a theatre attendant or concierge.
+- Witness two: Worker at the event, maybe like a cinema attendant or ticket taker.
 - Witness three: Unknown passerby, later identified as sibling of the worker, waiting to pick up their sibling from work. Drove away from the scene in panic as soon as the worker got into the car. 
 - Witness four: Bodyguard that tried to get their boss to safety before they realised they were already dead.
 - Witness five: Protagonist's loved one's friend from work. 
 
-Lobby has a computer in the middle of the room loaded to a database of all the people at the scene of the crime (theatregoers and workers, with passersby added as you go) and a mechanism for enterring the information that will reveal more about the bombing through the protagonist's statements.
+Lobby has a computer in the middle of the room loaded to a database of all the people at the scene of the crime (cinemagoers and workers, with passersby added as you go) and a mechanism for enterring the information that will reveal more about the bombing through the protagonist's statements.
 
 Witness 1 leads to Victim 1 and 2 //
 Victim 1 and 2 leads to Witness 4 //
@@ -47,6 +47,78 @@ Starts to examine their own recollection //
 Protagonist avoids protagonist's loved one, but an obvious missing link to witness 5 //
 Witness 5 leads back to protagonist's loved one
 
-If all of this is taking place in the aftermath of a bombing at a theatre, does it make more sense for the protagonist to be moving through an old abandoned (haunted) theatre? Entrance, Lobby, Theatre, Staff Room, then eventually, the Projection box.
+If all of this is taking place in the aftermath of a bombing at a cinema, does it make more sense for the protagonist to be moving through an old abandoned (haunted) cinema? Entrance, Lobby, cinema, Staff Room, then eventually, the Projection box.
 
 Does a perpetrator take too much attention away from the protagonist's grief? Does a lack of a perpetrator take energy out of the investigation?
+
+# Update 3 - Tuesday April 21st
+
+Brainstorming over the weekend, I think I want to shift the idea a bit to an arsonist and a fire instead of a bomb. I think distracts the audience from the themes less and allows me to pose the surreal experience of investigating a cinema that burnt down but it still looks fine. I'm thinking of really leaning into this, by having all of the witnesses hanging around in the cinema too. I don't think I'm a good enough artist to employ any real visuals, so this might just need to be a text-based game, but potentially the sound of crackling fire growing as the witness gives their statement could amplify this experience?
+
+Another point I wanted to consider was there being a ghost in each of the rooms and by figuring out details of their life, you can interact with them and they can give you more information. The last ghost you'll interact with is the protagonist's loved one. While the activity in this space will be the most violent, I think I want it to be the only room that isn't being haunted, and the protagonist is just projecting their guilt into the space where their loved one died.
+
+4 spaces: Outside, Lobby, Staffroom, cinema
+
+Ghost outside:
+- Arsonist
+
+Witnesses outside:
+- Sibling driver
+    - Alexis Priestly, 22 year old female, older sibling of ticket taker, Daniel Priestly
+    - Wasn't really paying attention to the cinema while she waited, knowing she had another 15-20 minutes before Dan got off shift.
+    - But she did notice a few people moving around the front of the cinema: the security guard had a smoke break out the front, the proposer leaned against the alley wall for a while.
+    - Then, as the sun went down, she could make out two more figures, one coming in long after the movie started taking a call before heading inside, and another who seemed to throw up in the alleyway before going back in.
+    - When the fire started and the screams cut through the air, she froze until Dan came sprinting out, at which point she hit the gas and got them the hell out of there.
+    - Alexis isn't initially here, appears once the protagonist talks to the first responder and Dan, the ticket taker.
+- First Responder
+    - Mason Levi, 34 year old male, paramedic
+    - First on the scene by chance, was driving nearby and heard the screams.
+    - Saw a car jetting off from the scene as they got there, but a couple people were stumbling out the front door, so got to work helping them.
+    - One person was completely covered in burns and rolling on the ground, immediately called emergency services and got to work trying to put out any active fires on people and gauze the worst.
+    - The first person died as they were trying to help, the second person had less severe burns, but their face and hands were badly burnt and Mason had to cover them quickly.
+
+Ghost in the lobby:
+- Proposer
+    - Freddy Williams, 29 year old male, cinema-goer
+    - On a date night with long-time girlfriend, Sally Ferguson.
+    - Had planned to take Sally out to dinner and then back to their apartment, where he would propose to her, but the evening was off to a bad start, and they'd been arguing pretty heavily before and during the movie.
+    - On pretense of heading to the bathroom, he went out front and took some deep breaths, trying to reassure himself and get himself in a headspace to make the rest of the date night great.
+    - When the doorway into the cinema collapsed and became blocked, he stayed behind to try and clear enough of the rubble to help people through.
+    - The fire quickly grew out of control and when he and the protagonist tried to get out, he tripped and didn't make it.
+
+Witnesses in the lobby:
+- Proposee
+    - Sally Ferguson, 30 year old female, cinema-goer
+    - On a date night with long-time boyfriend, Freddy Williams.
+    - Had a bad day at work and Freddy's nervousness wasn't helping her relax. It led to a fight that continued in sparse, hushed whispers during the movie.
+    - When it became apparent there was a fire, she dragged Freddy quickly to the exit. He ushered her away when the doorway collapsed, and she left.
+    - She wishes she didn't.
+    - The arson investigators gave her the engagement ring they found on his body.
+- Ticket Taker
+    - Dan Priestly, 19 year old male.
+    - Just a kid, doing a job he had no interest in just to get by.
+    - He was gonna get picked up by his sister, Alexis Priestly, when his shift was over.
+    - Went on break when the last screening started and caught Lex, getting her to cover the ticket checking.
+    - When the fire started, he panicked and bolted, immediately getting out of the cinema and going straight to the car.
+    - He saw everybody that came in with a ticket, but not the two late entrants, and knows all of the staff.
+
+Ghost in the staffroom:
+- Snack bar attendant
+    - Lex Primrose
+    - 25 year old female, works the snack bar
+    - After the last screening started, wanted to just head into the staffroom and chill until close, but instead took over for Dan checking tickets.
+    - Saw the reviewer and the arsonist in before swapping with Dan, plugging her headphones in.
+    - She figured if anybody rang the bell, she'd go back in. She never would've heard the bell over her music.
+    - She didn't hear the screams, didn't feel the heat until it was too late and the room was quickly becoming engulfed in flames.
+    - 
+
+Witnesses in the staffroom:
+- Security Guard
+- Cleaner
+
+Ghost in the cinema:
+- Loved one
+
+Witnesses in the cinema:
+- Reviewer
+- Loved One's Friend
