@@ -151,10 +151,26 @@ A choice for each ghost, to give them dignity and some measure of forgiveness, o
 
 Damning two of the three means your projections of your loved one takes on a more murderous intent and you get a bad end. Forgiveness for others leads to forgiveness for yourself, and closure as the projection dissipates.
 
-# Week 7 Quick Reflection and Check In - Wednesday April 22nd
+# Week 7 Swift Reflection and Check In - Wednesday April 22nd
 
 My three goals started well, though they faltered a little as I started working through the second two goals. I found that organising it out in miro board helped to figure out the flow of information, so tasks 2 and 3 started to blend into one another. I also had an interrupted weekend and my eyes may have been a little big when I was setting these goals. All together, I got close to completing these goals and imagine I'll have them finished very soon, well in advance of when I'd need to have them ready in order to present my assessment 2 demonstration, but it will require work.
 
 The miro board in question, freshly created to be more consistent with the new idea, can be found here: https://au.miro.com/app/board/u3jVOfwJlr8=/?share_link_id=946089266917
 
 The first goal was successful, however, and though I have yet to complete goal 2 and 3, they both feel attainable and close to completion. The iteration process of brainstorming has come together well, and while I was shaky on the initial idea, I feel much more comfortable with the concept that has come from the development process. The ability to reflect on ideas and identify when they aren't working or when they can be improved is a massive boon to my work, and while typically I'd just scrap what I didn't need anymore, the process of keeping the documentation and the process has been especially helpful to generating what will replace it, repurposing ideas, and working through problems. The project's development from a lone investigator moving through an abandoned house to the populated, surreal environment of a cinema, investigating the space that the reader knows burnt down is really interesting to look back on. Seeing the themes of confronting grief and forgiveness coming to flourish is also heartening and somewhat motivating me to continue with the process.
+
+# Thursday Swift Reflection and Development - Thursday April 23rd
+
+## What is the purpose of your piece? Was there an inspiration that brought it about?
+
+This piece started with the idea of being haunted, of a ghost that followed you through the novel. Expanding this piece into an exploration of themes of grief and finding forgiveness for yourself felt like the natural extension of haunting. 
+
+## What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+
+I want it to function as an investigation into the events of a fire at a cinema where the protagonist lost a loved one and is struggling to confront their grief and their inability to help them. The protagnist will move through four spaces, interacting with witnesses to learn the identities of the ghost that haunts each space, choosing to either forgive them for their role in the fire, or condemn them, potentially making the room inaccessable. This eventually forces the protagonist to confront the blame they are projecting onto their loved one's ghost, where the decisions to forgive or condemn the other ghosts influences whether or not they can forgive themselves.
+
+The four rooms I'll be using for my prototype presentation will probably be interactions with witnesses in the early stage of the investigation. After consulting with peers, I think this makes more sense than using just the four literal spaces, as the core of the piece is in the witness interaction and the information gathering.
+
+## What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+
+Next is probably finalising all the planning and moving onto the coding stages. Once those are underway, I'll be able to start development of the presentation, including slides and discussion points.
