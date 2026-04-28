@@ -72,10 +72,10 @@ Ghost outside:
 
 Witnesses outside:
 - Sibling driver
-    - Alexis Priestly, 22 year old woman, older sibling of ticket taker, Daniel Priestly
+    - Melanie Priestly, 22 year old woman, older sibling of ticket taker, Daniel Priestly
     - Wasn't really paying attention to the cinema while she waited, knowing she had another 15-20 minutes before Dan got off shift.
     - But she did notice a few people moving around the front of the cinema: the gross security guard noticed her during a quick "sweep" and came over to say hi, the proposer leaned against the alley wall for a while.
-    - Then, as the sun went down, she could make out two more figures, one seemed to throw up in the alleyway, and another who seemed to came out and smoked a cigarette before heading back in, not too long before the fire.
+    - Then, as the sun went down, she could make out two more figures, one seemed to throw up in the alleyway, and another who seemed to come out, loudly argue on the phone and smoke a cigarette and head back in, not too long before the fire.
     - When the fire started and the screams cut through the air, she froze until Dan came sprinting out, at which point she hit the gas and got them the hell out of there.
     - Alexis isn't initially here, appears once the protagonist talks to the first responder and Dan, the ticket taker.
 - First Responder
@@ -101,7 +101,7 @@ Witnesses in the lobby:
     - Had a bad day at work and Freddy's nervousness wasn't helping her relax. It led to a fight that continued in sparse, hushed whispers during the movie.
     - When it became apparent there was a fire, she dragged Freddy quickly to the exit. He ushered her away when the doorway collapsed, and she left.
     - She wishes she didn't.
-    - The arson investigators gave her the engagement ring they found on his body.
+    - The first responder gave her a ring, but in her grief, she was sure they were mistaken, so she refused to accept it.
 - Ticket Taker
     - Dan Priestly, 19 year old man.
     - Just a kid, doing a job he had no interest in just to get by.
@@ -113,9 +113,11 @@ Witnesses in the lobby:
 
 Ghost in the staffroom:
 - Snack bar attendant
-    - Lex Primrose, 25 year old woman, works the snack bar
+    - Lex Primrose, 25 year old woman, works the snack bar and maintains the storage area
+    - Often gets into arguments with Helen, the cleaner, who warns her it's a hazard area, but she never listens. Even kept a box of blunts buried in amongst the spare paper that they never used.
     - After the last screening started, wanted to just head into the staffroom and chill until close, but instead took over for Dan checking tickets.
-    - Saw Thomas, the drunk and gave him a ticket, and she saw the reviewer head out "for a breath of fresh air" before swapping back with Dan, planning to fall asleep until somebody woke her up and she could leave.
+    - A drunk came in and introduced himself as Thomas, 3 minutes sober. She gave him a ticket and moved him on.
+    - The reviewer left the cinema, said something about getting a breath of fresh air as he shook a cigarette out of his pack. She didn't care enough to reply. She swapped back with Dan a few minutes later.
     - When Gareth tried talking to her, she immediately plugged her headphones in and flipped him off, before settling in to fall asleep in the corner
     - She didn't hear the screams, didn't feel the heat until it was too late and the room was quickly becoming engulfed in flames.
 
@@ -128,28 +130,44 @@ Witnesses in the staffroom:
     - Started playing on his phone and pretending he didn't care about Lex's dismissal of him.
     - As the fire started, he didn't spare a glance at Lex, just sprinting from the room, tripping and smashing his face into the floor on the way. Seen to by the paramedic second.
 - Cleaner
-    - Helen Keel, 39 year old woman, does her best
+    - Hannah Keel, 47 year old woman, does her best
     - Very quiet, but knows just how bad the building is for fire regulations, and has tried within her power to keep the building running.
-    - Tries to organise the storage room, but there just isn't adequate room and shelving.
+    - Argues often with Lex, trying to get her to understand the risk of the storage room, but to no avail. Never wanted to elevate it to something super serious, but worried over it
     - Has requisitioned repair orders for the bathroom doors that jam easily, the crack in the wall above the door into the cinema that she's been told to "just paint over", the fading or missing emergency exit signs.
-    - Was in the cinema when the fire started, 
+    - Was in the cinema when the fire started, and quickly went to the secondary exit through the staff room. Never saw Lex in the corner, assuming the room would already be empty by the time the fire had become apparent in the soundproofed cinema.
 
 Ghost in the cinema:
-- Loved one
-    - Ellie Burbank, 26 year old woman, cinema goer
-    - It's a rescreening of one of her favourite movies. She insisted that the protagonist and her best friend come along to watch it with her in cinema so they can get the full experience.
+- Partner
+    - Ellie Burbank, 26 year old woman, cinema-goer
+    - It's a rescreening of one of her favourite movies from her childhood. She insisted that the protagonist and her best friend come along to watch it with her in cinema so they can get the full experience.
     - 
 
 Witnesses in the cinema:
 - Reviewer
-    -
-- Loved One's Friend
-    - 
+    - Ken Winters, 54 year old man, movie reviewer catching a late screening of literally anything because of troubles at home.
+    - When his wife called to find out where he was, he left the cinema and lit up a cigarette outside, before calling her back.
+    - It was a brief, brutal argument that ended with his wife telling him she'd be going to stay in a hotel.
+    - When she hung up, he tossed the lit butt away and stormed back inside, grateful nobody was in the lobby to see him fuming and sulking.
+    - This would be blown into the pool of alcohol up against the wall of the cinema which would start the fire.
+- Partner's Friend
+    - Jasmine Bueller, 27 year old woman, cinema-goer
+    - A long time friend of Ellie Burbank, and decently close friend of protagonist.
+    - Tells you all about your partner.
+    - Tells you about what happened to the three of you during the fire.
+    - Tells you it's not your fault. Begs you to believe it's not your fault.
+    - Leaves the cinema, leaving you alone in the room. With the doorway to the lobby collapsed and the staffroom uninhabitable, you're left with no choice but to sit here and confront your guilt.
 
+An important object for each ghost, related to their role in failing to prevent or stop the fire. The empty bottle for Thomas, the ring Freddy never gave, one of the cigarettes Lex kept in the storage room.
+
+Lex took the ticket of a drunk who introduced himself. Reviewer saw Thomas's empty bottle in the alleyway. Reviewer identified by sibling driver. Sibling driver identified by Dan. Dan and driver remembered by first responder. 
+
+Cleaner leads to Lex's stash. Cleaner was seen in the cinema by partner's friend. Security Guard identifies Lex as the person who died in the room once pressured. Lex's existence confirmed by Dan. Dan is in the lobby.
+
+Freddy's ring is being held by the first responder. First responder is holding it for proposee.
 
 A choice for each ghost, to give them dignity and some measure of forgiveness, or to blame them, to refuse them their important objects, to damn them.
 
-Damning two of the three means your projections of your loved one takes on a more murderous intent and you get a bad end. Forgiveness for others leads to forgiveness for yourself, and closure as the projection dissipates.
+Damning two of the three means your projections of your loved one takes on a more murderous intent and you get a bad end. Forgiveness for others leads to forgiveness for yourself, and closure as the projection dissipates. This all culminates in the bandages on your hands. Unwrapping them either reveals boiling skin and protruding bones before the room spontaneously lights ablaze, burning you along with the room, or your hands are clean, healed, pink flesh, as you see the burnt cinema as it really is around you now that the fire has been extinguished and the site has been cleaned and made safe.
 
 # Week 7 Swift Reflection and Check In - Wednesday April 22nd
 
@@ -163,7 +181,7 @@ The first goal was successful, however, and though I have yet to complete goal 2
 
 ## What is the purpose of your piece? Was there an inspiration that brought it about?
 
-This piece started with the idea of being haunted, of a ghost that followed you through the novel. Expanding this piece into an exploration of themes of grief and finding forgiveness for yourself felt like the natural extension of haunting. 
+This piece started with the idea of being haunted, of a ghost that followed you through the story. Expanding this piece into an exploration of themes of grief and finding forgiveness for yourself felt like the natural extension of haunting. 
 
 ## What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
 
