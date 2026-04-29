@@ -1,4 +1,6 @@
-# First ideas
+# First ideas - Wednesday April 15th
+
+### Progress Audit Documentation
 
 My early concept for my work of E-Lit is an exploration of the way grief, regret, and guilt can paralyse somebody and keep them from acknowledging or confronting their troubles. This primarily stemmed from the idea of a character having to work through trauma by moving through a house that is haunted by a ghost who changed the setting every time you entered and exited a room. The story will entirely take place in the manor that is being haunted, so I've completed a very simple initial layout of the house on Miro, visible here: https://au.miro.com/app/board/u3jVOfxPrsM=/?share_link_id=896997658275. 
 
@@ -176,6 +178,8 @@ My three goals started well, though they faltered a little as I started working 
 The miro board in question, freshly created to be more consistent with the new idea, can be found here: https://au.miro.com/app/board/u3jVOfwJlr8=/?share_link_id=946089266917
 
 The first goal was successful, however, and though I have yet to complete goal 2 and 3, they both feel attainable and close to completion. The iteration process of brainstorming has come together well, and while I was shaky on the initial idea, I feel much more comfortable with the concept that has come from the development process. The ability to reflect on ideas and identify when they aren't working or when they can be improved is a massive boon to my work, and while typically I'd just scrap what I didn't need anymore, the process of keeping the documentation and the process has been especially helpful to generating what will replace it, repurposing ideas, and working through problems. The project's development from a lone investigator moving through an abandoned house to the populated, surreal environment of a cinema, investigating the space that the reader knows burnt down is really interesting to look back on. Seeing the themes of confronting grief and forgiveness coming to flourish is also heartening and somewhat motivating me to continue with the process.
+
+I've been playing with iterations of my piece in it's very early stages. The first stumbling block I encountered was my background image. Finding the balance of visual clarity in what the image was and the ability to read the accompanying text was difficult and required simple trial and error to accomplish. Along with figuring out the links and tags inherent to Twine Harlowe, it's been a learning process.
 
 # Thursday Swift Reflection and Development - Thursday April 23rd
 
