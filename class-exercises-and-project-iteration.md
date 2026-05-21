@@ -226,3 +226,62 @@ Adding narrative to anything makes it more satisfying. Watching football is more
 Coming into this class with almost zero knowledge of coding, digital writing, and the work that it all entailed, a lot of the key learning moments came early in the semester for me. The first attempts I made at working with the digital playground really helped me to see just how much fun and personalisation I could put into my work. It almost became an exercise in finding how intimate I could get, how much of myself I was able to put onto it. That manifested in a lot of the thoughts that flitted through my mind at the time popping up, especially in the “Obsession of the Day”, “Searching”, and “Notes App” sections.
 This investigation into the personal input became a little bit of an obstacle later in the semester, as the project I worked on was so heavily inspired by my internalised ideas of grief and blame, and how they often coincide and mess each other up. When it came time to tell the class about this in the project presentation, it became an almost soul-bearing experience, where ideas that I had never put into words before were being pulled from me for examination. I think that could be why I felt a strong connection with Jenny Hedley’s blogs, which have a very tangible basis in turning the emotional into critical and creative works. 
 It was also reassuring to have examples of digital writing throughout the semester that are so integrally linked to the author’s life experiences, belief systems, and emotion, such as How to Knit a Human and Grief Found Me, among others.
+
+# Wednesday May 20th project work:
+
+## Finalising the flow of information
+
+Start with access to the paramedic and the ticket taker.
+
+The paramedic can tell you about the car, two people who died, and you being in the ambulance, and the other doctor that tried to help where she could (the Friend in the theatre, though the protagonist can't bring themselves to approach them at this point, inspite of the option being given.
+
+The ticket taker can tell you about the people who he checked the tickets of (the arguing couple, and a group of three including you), that the concession stand worker took over his place when he went on break, the guy on fire that burst out of the bathroom screaming, and his sister driving him away.
+
+This gives access to the sister, who can tell you that she saw two people hanging around in the alleyway not long before the fire (which, with an early exploration, gives access to the owner's phone, smashed and dead), and the security guard, who is a bit of a creep, but was hot on her brother's heels coming out of the cinema.
+
+This gives access to the security guard, who can tell you that he saw the proposee crying in the street as the ambulance drove away, and the concession stand worker talking to a manic guy but she didn't want his help.
+
+Knowledge of the proposee and the ring from the lost and found leads you to the Lobby Ghost, who can tell you about her boyfriend, the proposer, and the ring that the paramedic gave her, which she left in the lost and found in the staff room. 
+
+This gives access to the ghost in the lobby, the proposer. He talks about trying to clear the collapsed doorway into the theatre, how he wanted to be brave for his partner. He mentions how thankful he was for the women who dragged his partner out of the lobby, a worker and one of the women that was in the theatre.
+
+You can now briefly approach the friend in the theatre, who will mention the concession stand worker who was pretty shaken up by it all, and goes to console you, but you leave before she can really talk to you.
+
+This gives access to the concession stand partner, who can tell you about the drunk guy that came in after the ticket taker swapped with her, how she made him ditch the glass bottle before giving him a ticket and he chucked it in the bin before going to the bathroom, and how she went into the staff room to sleep until the end of her shift afterward and only woke to somebody yelling about fire, at which point she and the friend dragged the proposee out.
+
+Knowledge of the drunk guy and the empty bottle from the bin leads you to the outside ghost, who can tell you about his terrible night and the resolution to never drink again, dumping the spirits against the wall. He also mentions the nurse that did her best to help him, even after the paramedic moved onto more salvagable patients.
+
+This allows you to return to the friend, who keeps asking if you're doing alright, which you keep ignoring to focus on what she saw of the night prior to the scramble out of the theatre. She tells you about the cleaner that she gave a checkover to that seemed to just be a little out of it as she watched on after the ambulance had left with the worst injuries.
+
+This gives access to the cleaner, who can tell you about the owner and her lax standards when it came to running the place, how she was trying to bring it up to the owner, but she blew her off for a phone call that she took in the alleyway. The cleaner went back into the theatre to keep an eye on everything and went back into the staff room a few minutes later, only to see the concession stand worker asleep and the owner crying in the corner, no phone to be seen. She yelled about fire due to the smoke coming in from under the not-to-code external door, before sprinting across the street.
+
+Knowledge of the owner and recovery of the phone from the alleyway outside leads you to the staffroom ghost, who can tell you about her marital issues, the cigarette she smoked as her marriage dissolved, how she piffed the phone at the opposite wall in her anger before tossing her cigarette out into the night without snuffing it out before storming back into the staff room, where she dissociated and cried. She only came back to herself when the room was beginning to be consumed by flames, and all three doors led to worse fates. She laid on the ground and accepted her fate. A scream in the theatre echoed her grief.
+
+Three ghosts are dealt with at this point. If the protagonist has refused to give them absolution, each room has been cut off, one after the other. If not, the protagonist finds that all of the witnesses have disappeared, and an eery silence fills the space. The only room left is the theatre, and the only other person here is the friend.
+
+Finally, the protagonist approaches her and allows her to talk about her friend, your partner. About how she was thrilled to bring them both to the theatre, to share in the experience of a rescreening of her favourite childhood movie. How it immediately went wrong when minutes into the movie, the couple halfway up the theatre called out about smoke and fire. The three of you started leaving quickly, but apparently not quickly enough. The doorway collapsed, and she was on the other side. You tried to clear the doorway, the proposee was trying to help, but you couldn't do it. 
+
+She gives you a bracelet that your partner always wore, a gift you gave her early into your relationship. And the friend stands, leaving the cinema, disappearing at the door. And the space is silent. 
+
+Confronting the final ghost here means the screen in the space lights up. What follows depends on whether you gave absolution to or condemned two of the other ghosts. 
+
+Either your partner appears on the screen, scathing and hateful, saying everything she can to hurt you as the screen catches fire. You can't leave your seat as the curtains catch next, and your partner crawls out of the screen, no longer the black and white 2D image, now a spectre that drifts slowly toward you. The seats light up next, then the roof and the walls, and still she screams at you, your own screams of agony ripped from your throat as the flames crowd around you, your skin bubbling and melting and your bones liquifying. The theatre is burns down again, this time with you trapped in the inferno with the self-hatred taking the face of your partner. And the cycle can begin anew.
+
+Or, your partner appears sitting beside you. "It's a bit of a sad one, but I love it all the same," she whispers into your ear. The movie that plays is the story of your relationship in a smoky haze. A blur of your meeting, a shadow of your first kiss, a flare of passion when you first slept together. And then the fire. You and her on opposite sides of the rubble. Your screams matching. Her sobbing with her last breaths that it's okay. That she forgives you. That she will always love you.
+
+## Process Documentation: completion dates
+
+Submission Requirements:
+- E-Lit work
+      - Full development: Aim to be complete by 29/5/26
+      - Final Publish: 29/5/26
+- Folio of process documentation:
+      - In class activities: Last to be completed on 28/5/26
+      - Documentation of trials, iterations, experiments, resolutions, etc.: As they occur, all complete by 29/5/26 (or on final publish of my work of E-Lit)
+      - Earlier missed work: Go through and double check on 31/5/26
+- Website:
+      - Bio: Complete
+      - Link to E-Lit: Complete
+      - Other creative pieces: Need to implement viewing of them by 1/6/25
+- 500 Word Critical Reflection:
+      - Key learning moments, insights, connections to scholarly contexts, reflection on how my work fits into the broader field of digital writing practice: finish up by 2/6/25
