@@ -285,3 +285,8 @@ Submission Requirements:
       - Other creative pieces: Need to implement viewing of them by 1/6/25
 - 500 Word Critical Reflection:
       - Key learning moments, insights, connections to scholarly contexts, reflection on how my work fits into the broader field of digital writing practice: finish up by 2/6/25
+
+## Updated links:
+- Bitsy Work: https://gustuph.github.io/dw-bitsy/
+- Old Miro board: https://au.miro.com/app/board/u3jVOfxPrsM=/?share_link_id=605241501994
+- Newew Miro board: https://au.miro.com/app/board/u3jVOfwJlr8=/?share_link_id=934936347119
